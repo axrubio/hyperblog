@@ -3,8 +3,14 @@ Esta es la historia de Alex Rubio
 Alex Rubio tiene 56 años y nació en Honduras,
 viviendo en Estados Unidos, Maryland.
 
+EXPERIMENTO 1
+
 MASTER 1
 
+<<<<<<< HEAD
 MASTER 2
 
 Hoy hablaremos de su vida y obra maestra.
+=======
+Ho yhablaremoi de su vida y obra maestra.
+>>>>>>> 4295b2b (Exp 1)
